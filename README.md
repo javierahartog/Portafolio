@@ -6,9 +6,10 @@ Este repositorio contiene una colección de proyectos, trabajos y ejemplos de mi
 
 ## Contenido del repositorio
 
-- [Gestion visual Mina](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/GVM): Python y PowerBI
-- [Ventas Multinacional](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional): SQL y PowerBI
-- [Disponibilidad en tiendas retail](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Disponibilidad): Dax y PowerBI
+- [Acercamiento asteroides API NASA ](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Nasa_NEOWS/Analisis.md): Python y Tableau Public
+- [Gestion visual Mina](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/GVM/Analisis.md): Python y PowerBI
+- [Ventas Multinacional](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Ventas_Multinacional/Analisis.md): SQL y PowerBI
+- [Disponibilidad en tiendas retail](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Disponibilidad/Analisis.md): Dax y PowerBI
 
 ## Cómo navegar por el repositorio
 
