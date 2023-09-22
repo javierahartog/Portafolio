@@ -10,7 +10,7 @@ Utilizando herramientas como DAX y Power Query en Power BI, creamos una conexió
 
 ![Manzana](https://github.com/javierahartog/Portafolio/assets/134547879/6d14f60a-4033-4444-a879-d587323b9fb8)
 
-El proyecto poseia diferentes tomas de informacion lo que se transformaba a distintas APIs. Para hacer una conexion limpia y clara, tuvimos que ser muy cuidadosos y ordenados en elegir las conexiones entre ellas. 
+El proyecto posee diferentes tomas de informacion lo que se transformaba a distintas APIs. Para hacer una conexion limpia y clara, tuvimos que ser muy cuidadosos y ordenados en elegir las conexiones entre ellas. 
 
 ![conexiones](https://github.com/javierahartog/Portafolio/assets/134547879/038e1ba0-c65b-4f43-99cc-6b99efdf6745)
 
