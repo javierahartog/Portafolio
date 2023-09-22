@@ -1,10 +1,10 @@
-# Disponibilidad en tiendas retail
+# Niveles de extraccion y calidad en Cosecha
 
 ## Preparacion, analisis y visualizacion de datos
 
-<em>Área Abastecimiento</em>
+<em>Área Producción</em>
 
-Durante este proyecto, nos adentramos al mundo agronomo, especificamente en el proceso de cosecha. Este proyecto permitió mejorar la toma de decisiones informadas a traves de la tecnologia que ya tenian implementada pero no era utilizada eficazmente en el caso de la informacion diaria.
+Esta vez, nos adentramos al mundo agronomo, especificamente en el proceso de cosecha. Este proyecto permitió mejorar la toma de decisiones informadas a traves de la tecnologia que ya tenian implementada pero no era utilizada eficazmente en el caso de la informacion diaria.
 
 Utilizando herramientas como DAX y Power Query en Power BI, creamos una conexión sólida y realizamos la conexion de datos necesaria para obtener informacion actualizada diariamente a traves de APIs. A través de visualizaciones requeridas, como diferenciacion entre maquinas y sistemas pudimos ver pequeñas diferencias entre el conteo del "Campo" (maquinas) y "Pesaje" (procesamiento) lo que nos permite llevar un seguimiento mas realista de la operacion y mejorar la toma de decisiones.
 
