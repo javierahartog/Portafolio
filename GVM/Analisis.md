@@ -4,7 +4,9 @@
 
 En el mundo del análisis de datos, nos encontramos con proyectos que nos permiten adentrarnos en industrias específicas y revelar información valiosa. En este primer proyecto, nos enfocamos en la gestión visual de una mina, donde exploramos los datos relacionados con la extracción de material en cuatro rutas diferentes. A través de este análisis detallado, pudimos obtener información crucial para optimizar la eficiencia y la productividad de la operación minera.
 
-![powerbi GVM](https://github.com/javierahartog/Portfolio/assets/134547879/a42955be-425b-4556-989f-f3d0928ac6c2)
+![GESTION MINA](https://github.com/javierahartog/Portafolio/assets/134547879/ab72a71b-7602-47a0-b7f0-a8f8d418852e)
+
+
 
 En el proyecto se tuvo acceso a un conjunto de datos los cuales contenían información detallada sobre el volumen de material extraído, la duración de cada extracción y otros parámetros relevantes.
 
